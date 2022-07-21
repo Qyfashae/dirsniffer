@@ -1,2 +1,2 @@
 # dirsniffer
-Easy Directory Enumeration script
+Fast Directory Enumeration script
